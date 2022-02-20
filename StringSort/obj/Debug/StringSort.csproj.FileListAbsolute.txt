@@ -1,0 +1,6 @@
+C:\Users\yogi\source\repos\CsharpDemo\StringSort\bin\Debug\StringSort.exe.config
+C:\Users\yogi\source\repos\CsharpDemo\StringSort\bin\Debug\StringSort.exe
+C:\Users\yogi\source\repos\CsharpDemo\StringSort\bin\Debug\StringSort.pdb
+C:\Users\yogi\source\repos\CsharpDemo\StringSort\obj\Debug\StringSort.csproj.CoreCompileInputs.cache
+C:\Users\yogi\source\repos\CsharpDemo\StringSort\obj\Debug\StringSort.exe
+C:\Users\yogi\source\repos\CsharpDemo\StringSort\obj\Debug\StringSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\yogi\source\repos\CsharpDemo\Pattern6\bin\Debug\Pattern6.exe.config
+C:\Users\yogi\source\repos\CsharpDemo\Pattern6\bin\Debug\Pattern6.exe
+C:\Users\yogi\source\repos\CsharpDemo\Pattern6\bin\Debug\Pattern6.pdb
+C:\Users\yogi\source\repos\CsharpDemo\Pattern6\obj\Debug\Pattern6.csproj.CoreCompileInputs.cache
+C:\Users\yogi\source\repos\CsharpDemo\Pattern6\obj\Debug\Pattern6.exe
+C:\Users\yogi\source\repos\CsharpDemo\Pattern6\obj\Debug\Pattern6.pdb

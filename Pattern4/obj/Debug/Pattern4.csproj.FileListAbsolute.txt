@@ -1,0 +1,6 @@
+C:\Users\yogi\source\repos\CsharpDemo\Pattern4\bin\Debug\Pattern4.exe.config
+C:\Users\yogi\source\repos\CsharpDemo\Pattern4\bin\Debug\Pattern4.exe
+C:\Users\yogi\source\repos\CsharpDemo\Pattern4\bin\Debug\Pattern4.pdb
+C:\Users\yogi\source\repos\CsharpDemo\Pattern4\obj\Debug\Pattern4.csproj.CoreCompileInputs.cache
+C:\Users\yogi\source\repos\CsharpDemo\Pattern4\obj\Debug\Pattern4.exe
+C:\Users\yogi\source\repos\CsharpDemo\Pattern4\obj\Debug\Pattern4.pdb

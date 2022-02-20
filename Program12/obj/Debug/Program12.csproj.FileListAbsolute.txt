@@ -1,0 +1,7 @@
+C:\Users\yogi\source\repos\CsharpDemo\Program12\bin\Debug\Program12.exe.config
+C:\Users\yogi\source\repos\CsharpDemo\Program12\bin\Debug\Program12.exe
+C:\Users\yogi\source\repos\CsharpDemo\Program12\bin\Debug\Program12.pdb
+C:\Users\yogi\source\repos\CsharpDemo\Program12\obj\Debug\Program12.csproj.AssemblyReference.cache
+C:\Users\yogi\source\repos\CsharpDemo\Program12\obj\Debug\Program12.csproj.CoreCompileInputs.cache
+C:\Users\yogi\source\repos\CsharpDemo\Program12\obj\Debug\Program12.exe
+C:\Users\yogi\source\repos\CsharpDemo\Program12\obj\Debug\Program12.pdb

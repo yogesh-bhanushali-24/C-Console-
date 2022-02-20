@@ -1,0 +1,6 @@
+C:\Users\yogi\source\repos\CsharpDemo\Program20\bin\Debug\Program20.exe.config
+C:\Users\yogi\source\repos\CsharpDemo\Program20\bin\Debug\Program20.exe
+C:\Users\yogi\source\repos\CsharpDemo\Program20\bin\Debug\Program20.pdb
+C:\Users\yogi\source\repos\CsharpDemo\Program20\obj\Debug\Program20.csproj.CoreCompileInputs.cache
+C:\Users\yogi\source\repos\CsharpDemo\Program20\obj\Debug\Program20.exe
+C:\Users\yogi\source\repos\CsharpDemo\Program20\obj\Debug\Program20.pdb

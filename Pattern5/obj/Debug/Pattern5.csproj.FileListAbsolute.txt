@@ -1,0 +1,6 @@
+C:\Users\yogi\source\repos\CsharpDemo\Pattern5\bin\Debug\Pattern5.exe.config
+C:\Users\yogi\source\repos\CsharpDemo\Pattern5\bin\Debug\Pattern5.exe
+C:\Users\yogi\source\repos\CsharpDemo\Pattern5\bin\Debug\Pattern5.pdb
+C:\Users\yogi\source\repos\CsharpDemo\Pattern5\obj\Debug\Pattern5.csproj.CoreCompileInputs.cache
+C:\Users\yogi\source\repos\CsharpDemo\Pattern5\obj\Debug\Pattern5.exe
+C:\Users\yogi\source\repos\CsharpDemo\Pattern5\obj\Debug\Pattern5.pdb
